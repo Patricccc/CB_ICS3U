@@ -10,5 +10,6 @@ public class CheckAlpha {
             ans = scan.nextLine().charAt(0);
         }
         System.out.println("Done.");
+        scan.close();
     } 
 }
