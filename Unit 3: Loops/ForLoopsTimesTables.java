@@ -6,5 +6,6 @@ public class ForLoopsTimesTables {
         for(int i = 1;i <= n;i++){
             System.out.println(n + " x " + i + " = " + n*i);
         }
+        scan.close();
     }
 }
