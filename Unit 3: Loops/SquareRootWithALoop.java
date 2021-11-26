@@ -10,5 +10,6 @@ public class SquareRootWithALoop {
             System.out.println("Enter a positive number (or negative number to quit): ");
             n = scan.nextDouble();
         }
+        scan.close();
     }
 }
