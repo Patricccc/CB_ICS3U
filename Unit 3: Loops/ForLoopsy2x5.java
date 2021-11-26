@@ -22,5 +22,6 @@ public class ForLoopsy2x5 {
             int val = 2*i+5;
             System.out.println(i + " --> " + val);
         }
+        scan.close();
     }
 }
