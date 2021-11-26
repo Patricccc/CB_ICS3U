@@ -13,5 +13,6 @@ public class FixInfiniteLoop {
             guess = userInput.nextInt();
         }
         System.out.print("Valid guess entered");
+        userInput.close();
     }
 }
