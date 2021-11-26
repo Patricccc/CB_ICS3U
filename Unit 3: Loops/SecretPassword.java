@@ -10,5 +10,6 @@ public class SecretPassword {
             pass = scan.nextLine();
         }
         System.out.println("Access Granted!");
+        scan.close();
     }
 }
