@@ -10,5 +10,6 @@ public class ValidateyOrn {
             ans = scan.nextLine();
         }
         System.out.println("done");
+        scan.close();
     }
 }
