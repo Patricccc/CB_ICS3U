@@ -14,5 +14,6 @@ public class SumWithWhileLoop {
             i++;
         }
         System.out.println("The sum of the first "+n+" integers is "+sum);
+        scan.close();
     }
 } 
