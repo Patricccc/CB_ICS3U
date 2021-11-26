@@ -11,5 +11,6 @@ public class SentinelValue {
             value = scan.nextInt();
         }
         System.out.println("Stop");
+        scan.close();
     }
 }
