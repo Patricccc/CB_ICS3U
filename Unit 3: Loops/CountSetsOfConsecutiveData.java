@@ -11,5 +11,6 @@ public class CountSetsOfConsecutiveData {
             y = x;
         }
         System.out.println("There are "+counter+" cases of consecutive values");
+        scan.close();
     }
 }
