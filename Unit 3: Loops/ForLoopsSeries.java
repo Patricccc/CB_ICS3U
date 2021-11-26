@@ -27,5 +27,6 @@ public class ForLoopsSeries {
             sum += Math.pow(i, 1/i);
         }
         System.out.println(sum);
+        scan.close();
     }
 }
