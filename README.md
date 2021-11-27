@@ -1,4 +1,4 @@
-# CB_ICS5U
+# CB_ICS3U
 All of my work from ICS3U
 This is a repository containing all the exercises from CBOJ for ICS3U.
 
