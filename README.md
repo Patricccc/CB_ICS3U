@@ -1,5 +1,7 @@
 # CB_ICS3U
-All of my work from ICS3U
+
+Hi! I'm Patrick, one of CB's computing club execs!
+
 This is a repository containing all the exercises from CBOJ for ICS3U.
 
 Please do not copy code from this repository, though I won't know even if you do. However, if you are caught stealing code from this repository, be warned that you will face serious consequences.
